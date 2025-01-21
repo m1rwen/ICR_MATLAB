@@ -1,0 +1,2 @@
+configPathName	C:\ti\6844_Ressources\incabin_demos_12202024\incabin_demos_12202024\AWRL6844_Incabin_GUI\src\chirpConfigs6844
+configFileName	cpd.cfg
